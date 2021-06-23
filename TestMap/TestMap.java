@@ -25,5 +25,7 @@ public class TestMap {
         linkedHasMap.put("Hung" , 20);
         linkedHasMap.put("Hoang" , 19);
         System.out.println("Tuoi cua Nam la : " + linkedHasMap.get("Nam"));
+
     }
+
 }
